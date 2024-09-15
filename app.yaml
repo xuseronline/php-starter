@@ -1,0 +1,8 @@
+domains:
+- php-starter-xuseronline.wasmer.app
+kind: wasmer.io/App.v0
+name: rvhcloud-php-starter
+owner: rvhcloud
+package: .
+scaling:
+  mode: single_concurrency
